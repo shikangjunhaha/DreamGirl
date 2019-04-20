@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8b9ada06-a52d-43bb-8978-80b019b2ad73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "307套技能魔法特效-魔法光效-12_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "e63fe547-6472-498e-816b-9b8eb9b59beb",
+      "rawTextureUuid": "8b9ada06-a52d-43bb-8978-80b019b2ad73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 92,
+      "rawWidth": 144,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

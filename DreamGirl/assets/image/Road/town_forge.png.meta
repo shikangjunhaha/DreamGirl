@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "54ec872e-b59c-4d1d-aa90-42396ac507f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "town_forge": {
+      "ver": "1.0.3",
+      "uuid": "dbe8e5ab-a5b6-4339-9019-6b8f29518c4e",
+      "rawTextureUuid": "54ec872e-b59c-4d1d-aa90-42396ac507f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": -6.5,
+      "trimX": 0,
+      "trimY": 17,
+      "width": 455,
+      "height": 331,
+      "rawWidth": 470,
+      "rawHeight": 352,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "60b31a57-4994-4a48-ad0c-e22884272fc0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Archer_icon_101000501": {
+      "ver": "1.0.3",
+      "uuid": "9d3fd376-6328-4518-b1e5-9864b31a9eb6",
+      "rawTextureUuid": "60b31a57-4994-4a48-ad0c-e22884272fc0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 36,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

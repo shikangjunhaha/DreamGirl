@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Raccoon_BeAttacked_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "9cf14d63-b9bb-4fe4-9607-d4a96a8e3c27"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "7714959b-26d6-45f0-beb8-4dde924d8a09"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9cf14d63-b9bb-4fe4-9607-d4a96a8e3c27"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "7714959b-26d6-45f0-beb8-4dde924d8a09"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

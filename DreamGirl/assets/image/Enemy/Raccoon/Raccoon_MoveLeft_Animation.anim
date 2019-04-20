@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Raccoon_MoveLeft_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "afef62bf-7782-43b2-8edd-faf88edc6002"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "be364f95-b97e-4415-8e54-262fa11a517e"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "afef62bf-7782-43b2-8edd-faf88edc6002"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

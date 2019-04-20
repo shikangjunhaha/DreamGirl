@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "redpick2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -181,
+            159
+          ]
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": [
+            130,
+            -115
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.05,
+          "value": 255
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": 255
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 90
+        }
+      ]
+    }
+  },
+  "events": []
+}

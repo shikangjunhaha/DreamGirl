@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e51f7c43-d861-4749-878c-0a18aa804969",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bg_darkcave1_top": {
+      "ver": "1.0.3",
+      "uuid": "e5e18031-9e2d-48ca-a22c-5f61acc23f9b",
+      "rawTextureUuid": "e51f7c43-d861-4749-878c-0a18aa804969",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 0,
+      "trimY": 12,
+      "width": 513,
+      "height": 116,
+      "rawWidth": 513,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

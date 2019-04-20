@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b7aae6c6-93f9-41f6-9709-d856ac7c5330",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Devil_Halo3": {
+      "ver": "1.0.3",
+      "uuid": "a23ada8f-837d-4b35-830c-533f018ccba8",
+      "rawTextureUuid": "b7aae6c6-93f9-41f6-9709-d856ac7c5330",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 154.5,
+      "trimX": 224,
+      "trimY": 46,
+      "width": 543,
+      "height": 591,
+      "rawWidth": 992,
+      "rawHeight": 992,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

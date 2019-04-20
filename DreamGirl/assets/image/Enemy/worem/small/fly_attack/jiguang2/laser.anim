@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laser",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 13,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 13,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.1166666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -102
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": -262
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": -393
+        },
+        {
+          "frame": 0.25,
+          "value": -551
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": -689
+        },
+        {
+          "frame": 1.1,
+          "value": -689
+        },
+        {
+          "frame": 1.1166666666666667,
+          "value": -26
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.1166666666666667,
+          "value": 0
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8a83a5a6-bdfa-463e-8e1c-b49207ddf24e"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "e7e30882-cec9-48e1-ab94-dbdb337e9efb"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "2102ba5b-0ffa-4b43-b2a4-282a72054b6f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e53b083b-c857-400b-a7c2-b50e601b6615"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1b98b225-4975-49b8-bf9b-b3fc7252ec1e"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "5155be81-9389-4619-b584-bb5393ff3a3e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "cf77a153-1b1d-4398-808b-520fd48cbe29"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "18ff8c00-3f50-4ab5-86cb-206573ef691b"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "a49aad23-f573-4f96-95ec-4c6daf43d09f"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "0ba06c76-91d7-4e57-9813-31ab7c4cfb11"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "90bd801a-9322-4a91-bac9-8dc3bf8f307a"
+            }
+          },
+          {
+            "frame": 0.9166666666666666,
+            "value": {
+              "__uuid__": "2ce8e2ac-f944-49e3-b720-beea14960f0b"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0221a5fd-451d-4848-981a-a36217eb1873"
+            }
+          },
+          {
+            "frame": 1.0833333333333333,
+            "value": {
+              "__uuid__": "a3b38b02-f1e2-418f-98b9-1982b618b471"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

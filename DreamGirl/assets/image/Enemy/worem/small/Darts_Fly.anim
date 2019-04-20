@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Darts_Fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.6,
+          "value": 360
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": 0
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -113
+        },
+        {
+          "frame": 0.6,
+          "value": -1045
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": -129
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 1.1,
+          "value": 255
+        },
+        {
+          "frame": 1.1166666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

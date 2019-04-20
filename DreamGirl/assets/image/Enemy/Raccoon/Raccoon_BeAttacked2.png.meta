@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c18a5131-b7a2-47eb-89e6-965d5bc0c5b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Raccoon_BeAttacked2": {
+      "ver": "1.0.3",
+      "uuid": "7714959b-26d6-45f0-beb8-4dde924d8a09",
+      "rawTextureUuid": "c18a5131-b7a2-47eb-89e6-965d5bc0c5b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 22,
+      "offsetY": 27,
+      "trimX": 81,
+      "trimY": 2,
+      "width": 138,
+      "height": 198,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

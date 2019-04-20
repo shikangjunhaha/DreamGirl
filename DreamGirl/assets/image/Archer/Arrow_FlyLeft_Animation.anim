@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Arrow_FlyLeft_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -46.3
+        },
+        {
+          "frame": 0.75,
+          "value": -1178
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Archer_Acttack_Left_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "55a365e2-859c-4126-9c8a-2ede003c895f"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ae9bc521-17d7-4429-8bf2-904e4aa29808"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "00e68b38-3c55-48ea-a70a-ebb0026d6bac"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "fc407d08-d578-42a0-b3e9-37f4c261c165"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "b3dc190b-ff25-4a26-b0c2-b13a372b0401"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "55a365e2-859c-4126-9c8a-2ede003c895f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

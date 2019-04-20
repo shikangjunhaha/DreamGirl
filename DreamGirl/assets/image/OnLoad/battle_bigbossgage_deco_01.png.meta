@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2a55046e-5e61-439a-be60-c4dc88015a35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_bigbossgage_deco_01": {
+      "ver": "1.0.3",
+      "uuid": "f1ca666b-dc70-42f7-b53d-cdcbda4d0de0",
+      "rawTextureUuid": "2a55046e-5e61-439a-be60-c4dc88015a35",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 64,
+      "height": 40,
+      "rawWidth": 64,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

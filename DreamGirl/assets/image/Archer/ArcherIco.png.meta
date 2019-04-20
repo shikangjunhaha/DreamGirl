@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e0bc6ece-fda8-48cd-9733-50e3a47b392d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ArcherIco": {
+      "ver": "1.0.3",
+      "uuid": "0c7984ef-3a65-4107-b5f1-1df3130678a2",
+      "rawTextureUuid": "e0bc6ece-fda8-48cd-9733-50e3a47b392d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 0,
+      "trimX": 7,
+      "trimY": 0,
+      "width": 57,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
